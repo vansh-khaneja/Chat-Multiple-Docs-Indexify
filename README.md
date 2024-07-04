@@ -18,4 +18,6 @@ Ensure you have Python installed on your system. You can download it from here.
 Refer to this article for setting up Indexify extractors
 [Download Indexify Extractors](https://docs.getindexify.ai/apis/extractors/pdf/#marker-extractor)
 
-4) 
+4) Install the required dependencies:
+
+```pip install -r requirements.txt```
