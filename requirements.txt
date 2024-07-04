@@ -1,0 +1,4 @@
+indexify
+indexify-dspy
+ollama
+streamlit
