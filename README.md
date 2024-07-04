@@ -15,6 +15,7 @@ Ensure you have Python installed on your system. You can download it from here.
 ```cd multi-pdf-chatbot```
 
 2) Indexify setup:
-Refer to this article for setting up Indexify extractors [text](https://docs.getindexify.ai/apis/extractors/pdf/#marker-extractor)
+Refer to this article for setting up Indexify extractors
+[Download Indexify Extractors](https://docs.getindexify.ai/apis/extractors/pdf/#marker-extractor)
 
-3) 
+4) 
