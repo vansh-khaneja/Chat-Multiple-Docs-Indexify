@@ -11,4 +11,5 @@ Ensure you have Python installed on your system. You can download it from here.
 1) Clone the repository:
    
 ```git clone https://github.com/vansh-khaneja/Chat-Multiple-Docs-Indexify.git```
+
 ```cd multi-pdf-chatbot```
