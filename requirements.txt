@@ -2,3 +2,4 @@ indexify
 indexify-dspy
 ollama
 streamlit
+indexify-extractor-sdk
