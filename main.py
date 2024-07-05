@@ -8,8 +8,7 @@ from indexify_dspy import retriever
 
 client = IndexifyClient()
 
-lm = dspy.GROQ(model='mixtral-8x7b-32768', api_key ="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" )
-
+lm = dspy.OllamaLocal(model="llama3",timeout_s = 180)
 from langchain.document_loaders import PyPDFLoader
 
 
