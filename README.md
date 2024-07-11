@@ -1,7 +1,7 @@
 # Chat-Multiple-Docs-Indexify
 This repository contains a chatbot application capable of answering questions from multiple PDF files simultaneously. The application leverages Indexify for document indexing and retrieval, DSPy for natural language processing, and Streamlit for the user interface.
 
-Read full article with detailed steps over here [test](https://www.superteams.ai/blog/building-a-multi-document-rag-application-with-indexify-dspy-and-llama-3)
+Read full article with detailed steps over [here](https://www.superteams.ai/blog/building-a-multi-document-rag-application-with-indexify-dspy-and-llama-3)
 
 ![Alt Text - description of the image](https://github.com/vansh-khaneja/Chat-Multiple-Docs-Indexify/blob/main/sample%20outputs/output1.png?raw=true)
 
